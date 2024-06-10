@@ -12,3 +12,4 @@ mkdir IBG
 mv copadi IBG
 ls
 pwd
+echo hellohinamaste
