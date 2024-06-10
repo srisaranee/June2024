@@ -6,3 +6,4 @@ touch spaced
 touch copadi
 cd ..
 ls
+pwd
