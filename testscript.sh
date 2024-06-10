@@ -7,3 +7,8 @@ touch copadi
 cd ..
 ls
 pwd
+mkdir RAPI
+mkdir IBG
+mv copadi IBG
+ls
+pwd
